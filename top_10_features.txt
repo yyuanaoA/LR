@@ -1,0 +1,10 @@
+Glycohemoglobin
+Glucose
+BRI    
+TC    
+BMI    
+SII   
+Hypertensiontime
+NHHR    
+HDLC    
+SIRI
